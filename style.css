@@ -10,7 +10,7 @@ body {
 .top{
     width: 100%;
     height: 100vh;
-    background-image: url("[Insert Azure Blob URL]/bg.png");
+    background-image: url("https://neilstoragefinal1.blob.core.windows.net/neilblobstorage/bg.png");
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
